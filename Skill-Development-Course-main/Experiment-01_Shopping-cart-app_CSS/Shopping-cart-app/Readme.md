@@ -49,3 +49,19 @@ Steps to Run the Project
 License
 This project is licensed under the MIT License.
 Developed by [M Swayam Prakash]
+
+OTPUT SCREEMNSHOTS
+CART.HTML
+![image](https://github.com/user-attachments/assets/27652f15-58a1-4b9f-b168-db966b25a4a3)
+REGISTRATION.HTML
+![image](https://github.com/user-attachments/assets/330c41bc-0801-44d5-87ca-770b9a4528d2)
+LOGIN.HTML
+![image](https://github.com/user-attachments/assets/3b41c3c3-4f36-457f-ad32-f4db5c941dc0)
+USER PROFILE
+![image](https://github.com/user-attachments/assets/72cb984c-71ca-4073-a076-0db18b13ed4e)
+HOME.HTML
+![image](https://github.com/user-attachments/assets/c7aaf054-d7ce-445f-9328-63ac9d5250fe)
+
+
+
+
