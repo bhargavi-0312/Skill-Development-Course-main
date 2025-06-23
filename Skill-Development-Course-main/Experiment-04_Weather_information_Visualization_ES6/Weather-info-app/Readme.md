@@ -49,3 +49,8 @@ Author
 •M Swayam Prakash
 •GitHub: Your GitHub Profile
 Feel free to contribute or suggest improvements!
+
+OUTPUT SCREENSHOTS
+![image](https://github.com/user-attachments/assets/bd9420a9-b567-4ef8-985d-3ef76efe592f)
+![image](https://github.com/user-attachments/assets/c722a956-ce8a-4f85-b3b4-03df40c955f6)
+
