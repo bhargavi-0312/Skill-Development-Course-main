@@ -39,3 +39,5 @@ License
 This project is open-source and available under the MIT License.
 OUTPUT SCREENSHOTS
 ![image](https://github.com/user-attachments/assets/3340fa56-1178-4f17-aa24-1e76aa55745f)
+![image](https://github.com/user-attachments/assets/960f3885-b875-4d01-92ac-4f39ae467c40)
+
