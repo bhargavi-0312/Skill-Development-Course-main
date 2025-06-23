@@ -39,3 +39,6 @@ The validation logic is implemented using JavaScript. The registration form ensu
 
 7. License
 This project is open-source and free to use.
+
+OUTPUT SCREENSHOTS
+![image](https://github.com/user-attachments/assets/a54d9efc-88cc-4018-a0e2-4afcf469f0ab)
